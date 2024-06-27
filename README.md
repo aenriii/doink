@@ -9,6 +9,6 @@ method of managing github-based repositories as docker containers with dependenc
 
 ### 2. updates the container connected with it
 
-### 3. tells you the
+### 3. tells you
 
 
