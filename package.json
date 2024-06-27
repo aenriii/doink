@@ -1,0 +1,14 @@
+{
+  "name": "doink",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@octokit/webhooks-types": "^7.5.1"
+  }
+}
